@@ -1,0 +1,23 @@
+{
+  "name": "progressive-jpeg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Y2Lin/progressive-jpeg.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Y2Lin/progressive-jpeg/issues"
+  },
+  "homepage": "https://github.com/Y2Lin/progressive-jpeg#readme",
+  "dependencies": {
+    "imagemin": "^7.0.0",
+    "imagemin-mozjpeg": "^8.0.0"
+  }
+}
